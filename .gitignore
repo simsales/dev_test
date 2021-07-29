@@ -1,0 +1,11 @@
+node_modules
+.idea
+.env
+*.db
+.DS_Store
+yarn.lock
+package-lock.json
+gateway/public/.DS_Store
+gateway/public/panels/.DS_Store
+.vscode
+coverage
